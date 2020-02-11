@@ -1,0 +1,86 @@
+{
+	"collaborators": [
+
+		{
+			"name": "Miller Lab",
+			"role": "Scripps Florida",
+			"since": "Daily project",
+			"img": "miller",
+			"url": "https://www.scripps.edu/faculty/miller/"
+		},
+		{
+			"name": "Scripps LEAD ID",
+			"role": "Hopkins",
+			"since": "Drug discovery",
+			"img": "leadid",
+			"url": "https://hts.florida.scripps.edu/"
+		},
+		{
+			"name": "O'Connor Lab",
+			"role": "Hopkins",
+			"since": "Touch related impairement in ASD",
+			"img": "oconnor",
+			"url": "http://neuroscience.jhu.edu/research/faculty/65"
+		},
+		{
+			"name": "Holder Lab",
+			"role": "Hopkins",
+			"since": "Research, clinic and patients",
+			"img": "holder",
+			"url": "https://www.bcm.edu/people/view/jimmy-holder-jr-m-d-ph-d/b1840cd2-ffed-11e2-be68-080027880ca6"
+		},
+		{
+			"name": "Christie Lab",
+			"role": "Max Planck Institute of Florida",
+			"since": "Instrumental learning",
+			"img": "christie",
+			"url": "https://mpfi.org/science/our-labs/christie-lab/"
+		},
+		{
+			"name": "Colgin Lab",
+			"role": "University of Texas",
+			"since": "Brain activity in ASD",
+			"img": "colgin",
+			"url": "https://clm.utexas.edu/lclab/"
+		},
+		{
+			"name": "Bayés Lab",
+			"role": "Biomedical Research Institute Sant Pau",
+			"since": "Molecular mechanism governing the synapse",
+			"img": "bayes",
+			"url": "http://molecular-synapse.org/"
+		},
+		{
+			"name": "Parker Lab",
+			"role": "Scripps Florida",
+			"since": "Drug development of compound",
+			"img": "parker",
+			"url": "https://www.parkerresearch.org/"
+		},
+		{
+			"name": "Huganir Lab",
+			"role": "Hopkins",
+			"since": "Molecular mechanism governing the synapse",
+			"img": "huganir",
+			"url": "http://neuroscience.bs.jhmi.edu/huganir/"
+		},
+		{
+			"name": "Meletis Lab",
+			"role": "Hopkins",
+			"since": "Anatomical mapping of the brain",
+			"img": "meletis",
+			"url": "https://ki.se/en/neuro/meletis-laboratory"
+		},
+		{
+			"name": "Lynch Lab",
+			"role": "Hopkins",
+			"since": "Investigation of brain function",
+			"img": "lynch",
+			"url": "https://cnlm.uci.edu/lynch/"
+		},
+		{
+			"name": "You?",
+			"url": "/contact"
+		}
+	]
+}

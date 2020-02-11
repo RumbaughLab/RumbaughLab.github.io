@@ -1,0 +1,80 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+
+  {% include head.html %}
+
+  <body class="site">
+
+    {% if site.google_tag_manager %}
+
+      <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+
+{% endif %}
+
+{% include header.html %}
+
+  {% if page.featured-img %}
+  <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{ page.featured-img }}.jpg">
+  {% else %}
+  <div class="hero dark-bg">
+  {% endif %}
+    
+    <div class="hero__wrap">
+      {% if post.categories or page.categories %}
+        <div class="hero__categories">
+          {% if post %}
+            {% assign categories = post.categories %}
+          {% else %}
+            {% assign categories = page.categories %}
+          {% endif %}
+          {% for category in categories %}
+           <a class="label" href="{{site.baseurl}}/{{category|slugize}}">{{category}}</a>
+            {% unless forloop.last %}&nbsp;{% endunless %}
+          {% endfor %}
+        </div>
+      {% endif %}
+      <h1 class="hero__title">{{ page.title }}</h1>
+<!--       <p class="hero__meta">
+        <span>
+          <time>{{ page.date | date_to_string }}</time>&nbsp;&middot;
+        </span>
+        <span>
+            {% assign words = content | number_of_words %}
+              {% if words < 360 %}
+                1 min
+              {% else %}
+                {{ words | divided_by:180 }} mins
+            {% endif %} read
+        </span>
+      </p> -->
+    </div>
+  </div>
+
+    <main class="site__content">
+      <section class="blog">
+        <div class="container">
+          <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+			<br><h3>{{content}}</h3></br>
+
+      {% assign collab = site.data.collab.collaborators %}
+            {% for collaborators in collab %}
+			  
+			  {% include collaborators.html %}
+            {% endfor %}
+
+          </div>
+        </div>
+      </section>
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

@@ -1,0 +1,49 @@
+<div class="post-card" itemprop="blogPosts" itemscope="" itemtype="http://schema.org/BlogPosting">
+  <!-- {% if post.categories %}
+    {% assign categories = post.categories %}
+    <span class="post-card__label">
+      {% for category in categories %}
+        <a href="{{site.baseurl}}/categories/#{{category|slugize}}" class="label"> {{ category }} </a>
+        {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %}
+    </span>
+  {% endif %} -->
+  <a href="{{ collaborators.url | relative_url }}">
+    {% if collaborators.img %}
+      <figure class="post-card__thumb">
+        <img
+          src="{{ img }}",
+          data-srcset="{{ site.url }}{{ site.baseurl }}/assets/img/collab/{{collaborators.img}}.jpg, {{ site.url }}{{ site.baseurl }}/assets/img/collab/{{collaborators.img}}_thumb@2x.jpg 2x"
+          class="lazyload blur"
+          alt="{{collaborators.name}}"
+        />
+        <noscript>
+			<img src="{{ site.url }}{{ site.baseurl }}/assets/img/collab/{{collaborators.img}}.jpg" alt="{{ collaborators.name }}">
+		</noscript>
+      </figure>
+    {% else %}
+      <figure class="post-card__thumb">
+        <div class="dark-bg"></div>
+      </figure>
+    {% endif %}
+  </a>
+  <a class="post-card__inner" href="{{ collaborators.url | relative_url }}">
+    <div class="post-card__header">
+      <h2>{{ collaborators.name | strip_html | truncate: 50 }}</h2>
+      <!-- {% assign date_format = site.sleek.date_format | default: "%b %-d, %Y" %} -->
+      <!-- <span class="post-card__meta">
+        <time>{{ post.date | date: date_format }}</time>
+      </span> -->
+      <span class="post-card__meta">
+		  {{ collaborators.role }}
+     <br>{{ collaborators.since }}</br> 
+
+    </span>
+    </div>
+    <!-- {% if post.summary %}
+      <p>{{ post.summary | strip_html | truncatewords:20 }}</p>
+    {% else %}
+      <p>{{ post.content | strip_html | truncatewords: 20 }}</p>
+    {% endif %} -->
+  </a>
+</div>

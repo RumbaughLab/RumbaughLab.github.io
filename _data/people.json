@@ -1,0 +1,108 @@
+{
+	"person": [
+
+		{
+			"name": "Vineet Arora",
+			"role": "Postdoc/Scholar (joined in 2019)",
+			"exp": "8",
+			"since": "PhD - 2019 / Lerma Lab / Spain",
+			"img": "Vineet",
+			"from": "India",
+			"url": ""
+		},
+		{
+			"name": "Cris Creson",
+			"role": "Staff Scientist (joined in 2010)",
+			"exp": "8",
+			"since": "PhD - 2019 / / USA",
+			"img": "Cris",
+			"from":"TN, USA",
+			"url": ""
+		},
+		{
+			"name": "Jessie Goins",
+			"role": "Super Tech (joined in 2017)",
+			"exp": "5",
+			"since": "MS - 2017 / / OH, USA",
+			"img": "Jessie",
+			"from":"CO,USA",
+			"url": ""
+		},
+		{
+			"name": "Chris Hubbs",
+			"role": "Super Tech  (joined in 2015)",
+			"exp": "15",
+			"since": "",
+			"img": "Chris",
+			"from":"FL, USA",
+			"url": ""
+		},
+		{
+			"name": "Murat Kilinc",
+			"role": "Postdoc (joined in 2015)",
+			"exp": "7",
+			"since": "PhD - 2019 / Rumbaugh Lab / USA",
+			"img": "Murat",
+			"from":"Turkey",
+			"url": ""
+		},
+		{
+			"name": "Nerea Llamosas-Munozguren",
+			"role": "Postdoc  (joined in 2017)",
+			"exp": "8",
+			"since": "",
+			"img": "Nerea",
+			"from":"Spain",
+			"url": ""
+		},
+		{
+			"name": "Sheldon Michaelson",
+			"role": "Postdoc (joined in 2016)",
+			"exp": "10",
+			"since": "",
+			"img": "Sheldon",
+			"from":"Canada",
+			"url": ""
+		},
+		{
+			"name": "Beth Perconte",
+			"role": "Admin",
+			"exp": "20",
+			"since": "",
+			"img": "Beth",
+			"from":"USA",
+			"url": ""
+		},
+		{
+			"name": "Camilo Rojas",
+			"role": "Super Tech (joined in 2010)",
+			"exp": "13",
+			"since": "",
+			"img": "Camilo",
+			"from":"Columbia",
+			"url": ""
+		},
+		{
+			"name": "Gavin Rumbaugh",
+			"role": "PI  (started the lab in 2006)",
+			"exp": "13",
+			"since": "PhD - 2000 / Vicini Lab / USA",
+			"img": "GavinR",
+			"from":"PA, USA",
+			"url": ""
+		},
+		{
+			"name": "Tom Vaissiere",
+			"role": "Staff Scientist (joined in 2011)",
+			"exp": "13",
+			"since": "PhD - 2010 / Herceg Lab / France",
+			"img": "Tom",
+			"from":"France",
+			"url": ""
+		},
+		{
+			"name": "You?",
+			"url": "/contact"
+		}
+	]
+}

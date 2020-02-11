@@ -1,0 +1,127 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+
+{% include head.html %}
+
+<body class="site">
+
+{% if site.google_tag_manager %}
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+{% endif %}
+
+{% include header.html %}
+
+  {% if page.featured-img %}
+  <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{ page.featured-img }}.jpg">
+  {% else %}
+  <div class="hero dark-bg">
+  {% endif %}
+    <div class="hero__wrap">
+      {% if post.categories or page.categories %}
+        <div class="hero__categories">
+          {% if post %}
+            {% assign categories = post.categories %}
+          {% else %}
+            {% assign categories = page.categories %}
+          {% endif %}
+          {% for category in categories %}
+          
+<!--             <a class="label" href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>  -->         
+            <a class="label" href="{{site.baseurl}}/{{category|slugize}}">{{category}}</a>
+            {% unless forloop.last %}&nbsp;{% endunless %}
+          {% endfor %}
+        </div>
+      {% endif %}
+      <h1 class="hero__title">{{ page.title }}</h1>
+<!--       <p class="hero__meta">
+        <span>
+          <time>{{ page.date | date_to_string }}</time>&nbsp;&middot;
+        </span>
+        <span>
+            {% assign words = content | number_of_words %}
+              {% if words < 360 %}
+                1 min
+              {% else %}
+                {{ words | divided_by:180 }} mins
+            {% endif %} read
+        </span>
+      </p> -->
+    </div>
+  </div>
+
+    <main class="site__content">
+            <!-- <section class="blog"> -->
+        <div class="container">
+
+  <link rel="stylesheet" type="text/css" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" type="text/css" href="{{ "/assets/css/lightbox.min.css" | prepend: site.baseurl }}">
+  <script type="text/javascript" src="{{ "/assets/js/lightbox-plus-jquery.min.js" | prepend: site.baseurl }}"></script>  
+  <link rel="stylesheet" type="text/css" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
+
+<!-- <h1>Gallery in the lab</h1> -->
+
+<div class="gallery">
+
+
+
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/img/labGalleryOut/2019river.jpg" data-lightbox="gall" data-title="2019 - Riverbend - Cris close to the end" border=0 style="border:0; text-decoration:none; outline:none"> <img
+  alt="100%x200"
+  src="{{ site.url }}{{ site.baseurl }}/assets/img/labGalleryOut/2019river.jpg"
+  data-src="{{ site.url }}{{ site.baseurl }}/assets/img/labGalleryOut/2019river.jpg"
+  class="lazyload" /></a>
+
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/img/labGalleryOut/2019river_1.jpg" data-lightbox="gall" data-title="2019 - Riverbend - Jessie" border=0 style="border:0; text-decoration:none; outline:none"> <img
+  alt="100%x200"
+  src="{{ site.url }}{{ site.baseurl }}/assets/img/labGalleryOut/2019river_1.jpg"
+  data-src="{{ site.url }}{{ site.baseurl }}/assets/img/labGalleryOut/2019river_1.jpg"
+  class="lazyload" /></a>
+
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/img/labGalleryOut/2019river_gp.jpg" data-lightbox="gall" data-title="2019 - Riverbend - Take off" border=0 style="border:0; text-decoration:none; outline:none"> <img
+  alt="100%x200"
+  src="{{ site.url }}{{ site.baseurl }}/assets/img/labGalleryOut/2019river_gp.jpg"
+  data-src="{{ site.url }}{{ site.baseurl }}/assets/img/labGalleryOut/2019river_gp.jpg"
+  class="lazyload" /></a>
+
+
+
+
+<!--       {% assign labGalleryContent = site.data.labGalleryContent.labGall %}
+            {% for labGall in labGalleryContent %}
+        
+        {% include labGall.html %}
+            {% endfor %}
+ -->
+<!-- 
+ <div data-ride="carousel" data-script="assets/js/bootstrap.min.js" class="carousel lazyload"> -->
+
+<!--       <img src="{{ site.url }}{{ site.baseurl }}/assets/img/news/gpu.jpg"/ class="lazyload blur">
+
+            <img
+  alt="100%x200"
+  src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{ page.pics1 }}.jpg"
+  data-src="{{ site.url }}{{ site.baseurl }}/assets/img/news/{{ page.pics1 }}.jpg"
+  class="lazyload" />
+ -->
+
+
+
+</div>
+
+
+        </div>
+      <!-- </section> -->
+  </main>
+
+  {% include footer.html %}
+  {% include mathjax.html %}
+</body>
+
+</html>

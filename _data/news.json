@@ -1,0 +1,41 @@
+{
+	"newsnews": [
+
+		{
+			"name": "Pilot on Sensation",
+			"date": "February, 2020",
+			"description": "Temperature gradient set up, pilot data to come...",
+			"img": "tempGrad",
+			"url": "/news"
+		},
+		{
+			"name": "Growing Lab",
+			"date": "January, 2020",
+			"description": "Cooming Soon: April 2020. New room to integrate Neuropixels, in vivo imaging, 2p, Behavior...",
+			"img": "room",
+			"url": "/news"
+		},
+		{
+			"name": "New Headfixed Behavior",
+			"date": "December, 2019",
+			"description": "Behavior established by Cris and Sheldon combining behavior tracking with future functional studies",
+			"img": "nHF",
+			"url": "/news"
+		},
+		{
+			"name": "Resin 3D Printer",
+			"date": "October, 2019",
+			"description": "Elegoo Mars great affordable way to get small and precise parts!",
+			"img": "3D",
+			"url": "/news"
+		},
+		{
+			"name": "Free GPU",
+			"date": "September, 2019",
+			"description": "Thanks NVIDIA for the GPU Grant Program! https://developer.nvidia.com/academic_gpu_seeding",
+			"img": "gpu",
+			"url": "https://developer.nvidia.com/academic_gpu_seeding"
+		},
+
+	]
+}

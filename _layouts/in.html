@@ -1,0 +1,22 @@
+---
+layout: compress
+
+images:
+  - image_path: /assets/img/in/behavior.jpg
+    title: behavior
+  - image_path: /assets/img/in/patch.jpg
+    title: patch  
+  - image_path: /assets/img/in/probes.jpg
+    title: probes
+  - image_path: /assets/img/in/shop.jpg
+    title: shop  
+
+---
+
+
+
+<ul class="photo-gallery">
+  {% for image in page.images %}
+    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+  {% endfor %}
+</ul>

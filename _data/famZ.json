@@ -1,0 +1,34 @@
+{
+	"fam": [
+		{
+			"name": "Bridge the gap",
+			"img": "bridgethegap",
+			"url": "https://bridgesyngap.org/"
+		},
+		{
+			"name": "SRF",
+			"img": "srf",
+			"url": "https://www.sfari.org/"
+		},
+		{
+			"name": "Leon and Friends",
+			"img": "leon",
+			"url": "https://leonandfriends.org/english/"
+		},
+		{
+			"name": "DDD",
+			"img": "ddd",
+			"url": "https://www.ddduk.org/"
+		},
+		{
+			"name": "SFARI",
+			"img": "sfari",
+			"url": "https://www.sfari.org/"
+		},
+		{
+			"name": "Stoke Therapeutics",
+			"img": "stoke",
+			"url": "https://www.stoketherapeutics.com/"
+		}
+	]
+}
