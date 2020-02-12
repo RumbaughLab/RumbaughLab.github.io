@@ -4,7 +4,7 @@ author: wAOndering # You :P
 description: > # Meta description of Homepage
   Rumbaugh Lab website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rumbaughlab.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://rumbaugh.florida.scripps.edu" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
