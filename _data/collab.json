@@ -10,7 +10,7 @@
 		},
 		{
 			"name": "Scripps LEAD ID",
-			"role": "Hopkins",
+			"role": "Scripps Florida",
 			"since": "Drug discovery",
 			"img": "leadid",
 			"url": "https://hts.florida.scripps.edu/"
@@ -24,7 +24,7 @@
 		},
 		{
 			"name": "Holder Lab",
-			"role": "Hopkins",
+			"role": "BCM",
 			"since": "Research, clinic and patients",
 			"img": "holder",
 			"url": "https://www.bcm.edu/people/view/jimmy-holder-jr-m-d-ph-d/b1840cd2-ffed-11e2-be68-080027880ca6"
@@ -66,14 +66,14 @@
 		},
 		{
 			"name": "Meletis Lab",
-			"role": "Hopkins",
+			"role": "KI",
 			"since": "Anatomical mapping of the brain",
 			"img": "meletis",
 			"url": "https://ki.se/en/neuro/meletis-laboratory"
 		},
 		{
 			"name": "Lynch Lab",
-			"role": "Hopkins",
+			"role": "UCI",
 			"since": "Investigation of brain function",
 			"img": "lynch",
 			"url": "https://cnlm.uci.edu/lynch/"

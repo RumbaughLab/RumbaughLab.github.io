@@ -14,7 +14,7 @@
 			"name": "Cris Creson",
 			"role": "Staff Scientist (joined in 2010)",
 			"exp": "8",
-			"since": "PhD - 2019 / / USA",
+			"since": "PhD - / / USA",
 			"img": "Cris",
 			"from":"TN, USA",
 			"url": ""
@@ -32,7 +32,7 @@
 			"name": "Chris Hubbs",
 			"role": "Super Tech  (joined in 2015)",
 			"exp": "15",
-			"since": "",
+			"since": " / FL, USA",
 			"img": "Chris",
 			"from":"FL, USA",
 			"url": ""
@@ -41,16 +41,16 @@
 			"name": "Murat Kilinc",
 			"role": "Postdoc (joined in 2015)",
 			"exp": "7",
-			"since": "PhD - 2019 / Rumbaugh Lab / USA",
+			"since": "PhD - 2019 / Rumbaugh Lab / FL, USA",
 			"img": "Murat",
 			"from":"Turkey",
 			"url": ""
 		},
 		{
-			"name": "Nerea Llamosas-Munozguren",
+			"name": "Nerea Llamosas",
 			"role": "Postdoc  (joined in 2017)",
 			"exp": "8",
-			"since": "",
+			"since": "PhD - 2017 / Torrecilla Lab / Spain",
 			"img": "Nerea",
 			"from":"Spain",
 			"url": ""
@@ -59,7 +59,7 @@
 			"name": "Sheldon Michaelson",
 			"role": "Postdoc (joined in 2016)",
 			"exp": "10",
-			"since": "",
+			"since": "PhD - 2016 / Colmers Lab / Canada",
 			"img": "Sheldon",
 			"from":"Canada",
 			"url": ""
@@ -77,7 +77,7 @@
 			"name": "Camilo Rojas",
 			"role": "Super Tech (joined in 2010)",
 			"exp": "13",
-			"since": "",
+			"since": "B.S. - 2019 / Keiser Univ. / FL, USA",
 			"img": "Camilo",
 			"from":"Columbia",
 			"url": ""
