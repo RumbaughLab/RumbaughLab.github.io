@@ -2,7 +2,7 @@
 title: Rumbaugh Lab # your site title
 author: wAOndering # You :P
 description: > # Meta description of Homepage
-  Rumbaugh Lab website
+  Rumbaugh Lab - Neuroscience Lab at The Scripps Research Institute
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rumbaugh.florida.scripps.edu" # the base hostname & protocol for your site, e.g. http://example.com
 

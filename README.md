@@ -192,7 +192,7 @@ The theme is setup just like a normal Jekyll site! Check out [file structure ove
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-
+<!-- 
 ## Troubleshooting and additional notes and info
 
 # Dependencies
@@ -280,4 +280,4 @@ bundle _1.12.0_ install
 https://realfavicongenerator.net/
 
 ### Change the size of the hero banner 
-replace {.hero{margin:0 auto;height:36em}} by {.hero{margin:0 auto;height:18em}} in assets/css/main.css
+replace {.hero{margin:0 auto;height:36em}} by {.hero{margin:0 auto;height:18em}} in assets/css/main.css -->
