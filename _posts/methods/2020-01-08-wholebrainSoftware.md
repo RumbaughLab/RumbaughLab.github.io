@@ -17,7 +17,8 @@ src="{{ site.url }}{{ site.baseurl }}/assets/img/tools/wholeBrainPipe.jpg"
 data-src="{{ site.url }}{{ site.baseurl }}/assets/img/tools/wholeBrainPipe.jpg"
 class="lazyload" />
 </div>  
-<br></br>
+  
+  
 
 ### Automatic registration of the Allen Brain
 <div style="text-align:center"><img
@@ -25,7 +26,8 @@ alt="10%x20"
 src="{{ site.url }}{{ site.baseurl }}/assets/img/gif/registration.gif"
 data-src="{{ site.url }}{{ site.baseurl }}/assets/img/gif/registration.gif"
 class="lazyload" /></div>  
-<br></br>
+  
+  
 
 ### Placement of the segemented cells in the brain
 <div style="text-align:center"><img
@@ -33,7 +35,8 @@ alt="10%x20"
 src="{{ site.url }}{{ site.baseurl }}/assets/img/gif/wholebrain.gif"
 data-src="{{ site.url }}{{ site.baseurl }}/assets/img/gif/wholebrain.gif"
 class="lazyload" /></div>  
-<br></br>
+  
+  
 
 ### Wholebrain mapping of somatosensory inputs
 <div style="text-align:center"><img
