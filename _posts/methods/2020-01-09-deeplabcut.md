@@ -25,6 +25,6 @@ class="lazyload" /></div>
 ### Comparing the performance with 2 different startegy with DLC
 <div style="text-align:center"><img
 alt="10%x20"
-src="{{ site.url }}{{ site.baseurl }}/assets/img/tools/Rumbaughlab_firstNP.jpg"
-data-src="{{ site.url }}{{ site.baseurl }}/assets/img/tools/Rumbaughlab_firstNP.jpg"
+src="{{ site.url }}{{ site.baseurl }}/assets/img/tools/dlcPupilComp.jpg"
+data-src="{{ site.url }}{{ site.baseurl }}/assets/img/tools/dlcPupilComp.jpg"
 class="lazyload" /></div>
