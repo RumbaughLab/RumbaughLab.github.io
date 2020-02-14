@@ -4,7 +4,7 @@ title: "Neuropixels"
 featured-img: neuropixels
 author: methods
 permalink: /Neuropixels/
-categories: [Neuropixels, 2p, patch clamp, DeepLabCut, wholebrainSoftware, HTS, etc.]
+categories: [Neuropixels, 2p, patch clamp, DeepLabCut, wholebrainSoftware, HTS]
 ---
 
 <div style="text-align:center"><img

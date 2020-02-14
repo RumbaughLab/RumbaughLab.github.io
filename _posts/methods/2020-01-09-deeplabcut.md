@@ -4,7 +4,7 @@ title: "DeepLabCut"
 featured-img: dlc
 author: methods
 permalink: /DeepLabCut/
-categories: [Neuropixels, 2p, patch clamp, DeepLabCut, wholebrainSoftware, HTS, etc.]
+categories: [Neuropixels, 2p, patch clamp, DeepLabCut, wholebrainSoftware, HTS]
 tags: [DeepLabCut, Mathis, machine learning, AI]
 ---
 
