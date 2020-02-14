@@ -8,7 +8,7 @@
 			"since": "PhD - 2019 / Lerma Lab / Spain",
 			"img": "Vineet",
 			"from": "India",
-			"url": ""
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
 			"name": "Cris Creson",
@@ -17,7 +17,7 @@
 			"since": "PhD - / / USA",
 			"img": "Cris",
 			"from":"TN, USA",
-			"url": ""
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
 			"name": "Jessie Goins",
@@ -26,7 +26,7 @@
 			"since": "MS - 2017 / / OH, USA",
 			"img": "Jessie",
 			"from":"CO,USA",
-			"url": ""
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
 			"name": "Chris Hubbs",
@@ -35,7 +35,7 @@
 			"since": "BS - 2008 / FL, USA",
 			"img": "Chris",
 			"from":"FL, USA",
-			"url": ""
+			"url": "https://www.linkedin.com/in/christopher-hubbs-aa5ab9101"
 		},
 		{
 			"name": "Murat Kilinc",
@@ -44,7 +44,7 @@
 			"since": "PhD - 2019 / Rumbaugh Lab / FL, USA",
 			"img": "Murat",
 			"from":"Turkey",
-			"url": ""
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
 			"name": "Nerea Llamosas",
@@ -53,7 +53,7 @@
 			"since": "PhD - 2017 / Torrecilla Lab / Spain",
 			"img": "Nerea",
 			"from":"Spain",
-			"url": ""
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
 			"name": "Sheldon Michaelson",
@@ -62,7 +62,7 @@
 			"since": "PhD - 2016 / Colmers Lab / Canada",
 			"img": "Sheldon",
 			"from":"Canada",
-			"url": ""
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
 			"name": "Beth Perconte",
@@ -71,7 +71,7 @@
 			"since": "",
 			"img": "Beth",
 			"from":"USA",
-			"url": ""
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
 			"name": "Camilo Rojas",
@@ -80,7 +80,7 @@
 			"since": "B.S. - 2019 / Keiser Univ. / FL, USA",
 			"img": "Camilo",
 			"from":"Columbia",
-			"url": ""
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
 			"name": "Gavin Rumbaugh",
@@ -89,7 +89,7 @@
 			"since": "PhD - 2000 / Vicini Lab / USA",
 			"img": "GavinR",
 			"from":"PA, USA",
-			"url": ""
+			"url": "http://rumbaugh.florida.scripps.edu/Gavin/"
 		},
 		{
 			"name": "Tom Vaissiere",
@@ -98,7 +98,7 @@
 			"since": "PhD - 2010 / Herceg Lab / France",
 			"img": "Tom",
 			"from":"France",
-			"url": ""
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
 			"name": "You?",
