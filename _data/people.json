@@ -29,15 +29,6 @@
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
-			"name": "Chris Hubbs",
-			"role": "Research Assistant III  (joined in 2011)",
-			"exp": "15",
-			"since": "BS - 2008 / FL, USA",
-			"img": "Chris",
-			"from":"FL, USA",
-			"url": "https://www.linkedin.com/in/christopher-hubbs-aa5ab9101"
-		},
-		{
 			"name": "Murat Kilinc",
 			"role": "Postdoc (joined in 2015)",
 			"exp": "7",
