@@ -95,7 +95,8 @@ __Sci Rep__ [Sridharan, B. et al.](https://dx.doi.org/10.1038/s41598-019-45265-1
 ### 2015
 23	Zhou, M. et al. Neuronal death induced by misfolded prion protein is due to NAD+ depletion and can be relieved in vitro and in vivo by NAD+ replenishment. Brain 138, 992-1008, doi:10.1093/brain/awv002 (2015).  
 
-24	Rumbaugh, G. et al. Pharmacological Selectivity Within Class I Histone Deacetylases Predicts Effects on Synaptic Function and Memory Rescue. Neuropsychopharmacology 40, 2307-2316, doi:10.1038/npp.2015.93 (2015).
+24	Rumbaugh, G. et al. Pharmacological Selectivity Within Class I Histone Deacetylases Predicts Effects on Synaptic Function and Memory Rescue. Neuropsychopharmacology 40, 2307-2316, doi:10.1038/npp.2015.93 (2015).  
+
 25	Ozkan, E. D. et al. Input-specific regulation of hippocampal circuit maturation by non-muscle myosin IIB. J Neurochem 134, 429-444, doi:10.1111/jnc.13146 (2015).  
 
 26	Aceti, M. et al. Syngap1 haploinsufficiency damages a postnatal critical period of pyramidal cell structural maturation linked to cortical circuit assembly. Biol Psychiatry 77, 805-815, doi:10.1016/j.biopsych.2014.08.001 (2015).  
