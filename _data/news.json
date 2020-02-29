@@ -2,6 +2,13 @@
 	"newsnews": [
 
 		{
+			"name": "Miniscope Chatter",
+			"date": "March, 2020",
+			"description": "Discussion about miniscope implementation over lunch at the beach",
+			"img": "lunch1",
+			"url": "/news"
+		},
+		{
 			"name": "Pilot on Sensation",
 			"date": "February, 2020",
 			"description": "Temperature gradient set up, pilot data to come...",
