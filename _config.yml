@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
-title: Rumbaugh Lab # your site title
+title: Rumbaugh Group # your site title
 author: wAOndering # You :P
 description: > # Meta description of Homepage
-  Rumbaugh Lab - Neuroscience Lab at The Scripps Research Institute
+  Rumbaugh Group - Neuroscience Lab at The Scripps Research Institute - Understand  the  links  between  Autism Spectrum Disorder (ASD) genetic  risk,  resulting  distributed brain connectivity impairments, and their impact on ASD-­relevant behaviors
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rumbaugh.florida.scripps.edu" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -20,11 +20,11 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'The Team', link: '/the-team'}
+  - {name: 'Team', link: '/the-team'}
   - {name: 'Research', link: '/research'}
   - {name: 'Tools', link: '/tools'}
   - {name: 'Publications', link: '/publications'}
-  - {name: 'Lab Gallery', link: '/lab-gallery'}
+  - {name: 'Gallery', link: '/lab-gallery'}
   - {name: 'News', link: '/news'}
   - {name: 'Contact', link: '/contact'}
   - {name: 'For Families', link: '/families'}
