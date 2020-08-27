@@ -50,8 +50,8 @@
 			"name": "Susan Hodi",
 			"role": "Postdoc (joined in 2020)",
 			"exp": "5",
-			"since": "PhD - / / Hungary",
-			// "img": "Susan",
+			"since": "PhD - 2012 / Nyitray Lab / Hungary",
+			"img": "Susan",
 			"from":"Hungary",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
