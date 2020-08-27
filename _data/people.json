@@ -20,6 +20,15 @@
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
+			"name": "Seth Butz",
+			"role": "Tech/coder (joined in 2020)",
+			"exp": "1",
+			"since": "B.S. - 2019 / F.I.T. / FL, USA",
+			"img": "Seth",
+			"from": "USA",
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
+		},
+		{
 			"name": "Cris Creson",
 			"role": "Staff Scientist (joined in 2010)",
 			"exp": "8",
@@ -35,6 +44,15 @@
 			"since": "MS - 2017 / / OH, USA",
 			"img": "Jessie",
 			"from":"CO,USA",
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
+		},
+		{
+			"name": "Susan Hodi",
+			"role": "Postdoc (joined in 2020)",
+			"exp": "5",
+			"since": "PhD - / / Hungary",
+			"img": "Susan",
+			"from":"Hungary",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
