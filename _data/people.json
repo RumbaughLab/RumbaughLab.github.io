@@ -15,7 +15,7 @@
 			"role": "Grad student (joined in 2020)",
 			"exp": "2",
 			"since": "/ /",
-			"img": "Yeselth",
+			// "img": "Yeselth",
 			"from":"Venezuela",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
@@ -24,7 +24,7 @@
 			"role": "Tech/coder (joined in 2020)",
 			"exp": "1",
 			"since": "B.S. - 2019 / F.I.T. / FL, USA",
-			"img": "Seth",
+			// "img": "Seth",
 			"from": "USA",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
@@ -51,7 +51,7 @@
 			"role": "Postdoc (joined in 2020)",
 			"exp": "5",
 			"since": "PhD - / / Hungary",
-			"img": "Susan",
+			// "img": "Susan",
 			"from":"Hungary",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
