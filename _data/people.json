@@ -11,6 +11,24 @@
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
+			"name": "Yeselth Angarita Pena",
+			"role": "Grad student (joined in 2020)",
+			"exp": "7",
+			"since": "/ /",
+			"img": "Yeselth",
+			"from":"Venezuela",
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
+		},
+		{
+			"name": "Seth Butz",
+			"role": "Tech/coder (joined in 2020)",
+			"exp": "1",
+			"since": "B.S. - 2019 / F.I.T. / FL, USA",
+			"img": "Seth",
+			"from": "USA",
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
+		},		
+		{
 			"name": "Cris Creson",
 			"role": "Staff Scientist (joined in 2010)",
 			"exp": "8",
@@ -29,23 +47,32 @@
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
-			"name": "Murat Kilinc",
-			"role": "Postdoc (joined in 2015)",
-			"exp": "7",
-			"since": "PhD - 2019 / Rumbaugh Lab / FL, USA",
-			"img": "Murat",
-			"from":"Turkey",
+			"name": "Susan Hodi",
+			"role": "Postdoc (joined in 2020)",
+			"exp": "5",
+			"since": "PhD - / / Hungary",
+			"img": "Susan",
+			"from":"Hungary",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
-		{
-			"name": "Nerea Llamosas",
-			"role": "Postdoc  (joined in 2017)",
-			"exp": "8",
-			"since": "PhD - 2017 / Torrecilla Lab / Spain",
-			"img": "Nerea",
-			"from":"Spain",
-			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
-		},
+		// {
+		// 	"name": "Murat Kilinc",
+		// 	"role": "Postdoc (joined in 2015)",
+		// 	"exp": "7",
+		// 	"since": "PhD - 2019 / Rumbaugh Lab / FL, USA",
+		// 	"img": "Murat",
+		// 	"from":"Turkey",
+		// 	"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
+		// },
+		// {
+		// 	"name": "Nerea Llamosas",
+		// 	"role": "Postdoc  (joined in 2017)",
+		// 	"exp": "8",
+		// 	"since": "PhD - 2017 / Torrecilla Lab / Spain",
+		// 	"img": "Nerea",
+		// 	"from":"Spain",
+		// 	"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
+		// },
 		{
 			"name": "Sheldon Michaelson",
 			"role": "Postdoc (joined in 2016)",
