@@ -11,6 +11,15 @@
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
+			"name": "Yeselth Angarita Pena",
+			"role": "Grad student (joined in 2020)",
+			"exp": "2",
+			"since": "/ /",
+			"img": "Yeselth",
+			"from":"Venezuela",
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
+		},
+		{
 			"name": "Cris Creson",
 			"role": "Staff Scientist (joined in 2010)",
 			"exp": "8",
@@ -26,24 +35,6 @@
 			"since": "MS - 2017 / / OH, USA",
 			"img": "Jessie",
 			"from":"CO,USA",
-			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
-		},
-		{
-			"name": "Murat Kilinc",
-			"role": "Postdoc (joined in 2015)",
-			"exp": "7",
-			"since": "PhD - 2019 / Rumbaugh Lab / FL, USA",
-			"img": "Murat",
-			"from":"Turkey",
-			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
-		},
-		{
-			"name": "Nerea Llamosas XXXXXXX",
-			"role": "Postdoc  (joined in 2017)",
-			"exp": "8",
-			"since": "PhD - 2017 / Torrecilla Lab / Spain",
-			"img": "Nerea",
-			"from":"Spain",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
