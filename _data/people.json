@@ -11,11 +11,11 @@
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
-			"name": "Yeselth Angarita Pena",
+			"name": "Yeselth Angarita Peña",
 			"role": "Grad student (joined in 2020)",
 			"exp": "2",
-			"since": "/ /",
-			// "img": "Yeselth",
+			"since": "B.Sc. - 2020 / USF / FL, USA",
+			"img": "Yeselth",
 			"from":"Venezuela",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
@@ -23,7 +23,7 @@
 			"name": "Seth Butz",
 			"role": "Tech/coder (joined in 2020)",
 			"exp": "1",
-			"since": "B.S. - 2019 / F.I.T. / FL, USA",
+			"since": "B.Sc. - 2019 / F.I.T. / FL, USA",
 			"img": "Seth",
 			"from": "PA, USA",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
