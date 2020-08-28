@@ -14,7 +14,7 @@
 			"name": "Yeselth Angarita Peña",
 			"role": "Grad student (joined in 2020)",
 			"exp": "2",
-			"since": "B.Sc. - 2020 / USF / FL, USA",
+			"since": "B.Sc. - 2018 / USF / FL, USA",
 			"img": "Yeselth",
 			"from":"Venezuela",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
