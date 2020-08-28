@@ -24,7 +24,7 @@
 			"role": "Tech/coder (joined in 2020)",
 			"exp": "1",
 			"since": "B.S. - 2019 / F.I.T. / FL, USA",
-			// "img": "Seth",
+			"img": "Seth",
 			"from": "USA",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
@@ -102,7 +102,7 @@
 		},
 		{
 			"name": "You?",
-			"url": "/contact"
+			"url": "{{ site.url }}{{ site.baseurl }}/contact"
 		}
 	]
 }
