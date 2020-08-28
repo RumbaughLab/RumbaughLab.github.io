@@ -25,7 +25,7 @@
 			"exp": "1",
 			"since": "B.S. - 2019 / F.I.T. / FL, USA",
 			"img": "Seth",
-			"from": "USA",
+			"from": "PA, USA",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
@@ -43,7 +43,7 @@
 			"exp": "5",
 			"since": "MS - 2017 / / OH, USA",
 			"img": "Jessie",
-			"from":"CO,USA",
+			"from":"CO, USA",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
