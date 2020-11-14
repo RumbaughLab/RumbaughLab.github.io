@@ -4,9 +4,21 @@ title: "DeepLabCut"
 featured-img: dlc
 author: methods
 permalink: /DeepLabCut/
-categories: [Neuropixels, 2p, patch clamp, DeepLabCut, wholebrainSoftware, HTS]
+categories: [Neuropixels, 2p, patch clamp, DeepLabCut, wholebrainSoftware, HTS, Miniscope]
 tags: [DeepLabCut, Mathis, machine learning, AI]
 ---
+
+### Multi-tracking multibody parts with [DeepLabCut](http://www.mousemotorlab.org/deeplabcut)
+<div style="text-align:center"><img
+alt="10%x20"
+src="{{ site.url }}{{ site.baseurl }}/assets/img/gif/newDLC.gif"
+data-src="{{ site.url }}{{ site.baseurl }}/assets/img/gif/newDLC.gif"
+class="lazyload" /></div>  
+
+
+
+<!-- ffmpeg -i newDLC.mp4 -vf fps=15,scale=720:-1  newDLC.gif -->
+
 
 ### Multi-tracking with [DeepLabCut](http://www.mousemotorlab.org/deeplabcut) of whiskers and pupil 
 <div style="text-align:center"><img

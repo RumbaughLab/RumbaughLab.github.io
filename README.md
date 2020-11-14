@@ -281,3 +281,14 @@ https://realfavicongenerator.net/
 
 ### Change the size of the hero banner 
 replace {.hero{margin:0 auto;height:36em}} by {.hero{margin:0 auto;height:18em}} in assets/css/main.css -->
+
+<!-- 
+Notes for Video 
+https://flipdazed.github.io/blog/website/add-video-to-github-README
+https://stackoverflow.com/questions/43475729/jekyll-mp4-webm-video-showing-on-serve-but-not-on-build
+ffmpeg -i newDLC.mp4 -vcodec libvpx -acodec libvorbis newDLC.webm 
+ffmpeg -i newDLC.mp4 -vcodec libvpx -acodec libvorbis newDLC.webm 
+
+ffmpeg -i newDLC.mp4 -c:v libtheora -c:a libvorbis -q:v 10 -q:a 10 newDLC.ogv
+
+-->

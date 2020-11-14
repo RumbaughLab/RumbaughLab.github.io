@@ -1,6 +1,26 @@
 {
 	"newsnews": [
-
+		{
+			"name": "Miniscope in the Lab",
+			"date": "November, 2020",
+			"description": "First data acquisition with Inscopix miniscope, find out more in the tools section",
+			"img": "Miniscope",
+			"url": "/news"
+		},
+		{
+			"name": "Syngap1 Conference",
+			"date": "November, 2020",
+			"description": "Great panel of experts and most importantly PATIENT VOICES!",
+			"img": "syngapconf",
+			"url": "https://www.bridgesyngap.org/externally-led-patient-focused-drug-development-meeting"
+		},
+		{
+			"name": "Zoomoween",
+			"date": "October, 2020",
+			"description": "Awesome virtual Halloween meeting thanks to Zoom and Snapchat - special award to Beth for Best Costume!",
+			"img": "halloween",
+			"url": "/news"
+		},
 		{
 			"name": "Miniscope Chatter",
 			"date": "March, 2020",

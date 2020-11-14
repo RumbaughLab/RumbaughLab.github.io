@@ -63,13 +63,12 @@ layout: compress
                      
           <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
-
-             <br><h3></h3></br>
+             <br>{{ content }}</br>
+            <h3></h3></br>
     {% assign sorted-posts = site.posts | where: "author","research" %}
       {% for post in sorted-posts limit: 5 %}
         {% include card.html %}
       {% endfor %}
-      <p>{{ content }}</p>p
 
         </div>
       </section>

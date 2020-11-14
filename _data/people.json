@@ -11,6 +11,15 @@
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
+			"name": "Diána Balázsfi",
+			"role": "Postdoc/Scholar (joined in 2020)",
+			"exp": "8",
+			"since": "PhD - 2018 / Zelena/Haller Labs / Hungary",
+			"img": "Diana",
+			"from": "Hungary",
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
+		},
+		{
 			"name": "Yeselth Angarita Peña",
 			"role": "Grad student (joined in 2020)",
 			"exp": "2",

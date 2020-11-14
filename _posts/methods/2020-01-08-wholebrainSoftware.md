@@ -4,7 +4,7 @@ title: "wholebrainSoftware"
 featured-img: wholeBrain
 author: methods
 permalink: /wholebrainSoftware/
-categories: [Neuropixels, 2p, patch clamp, DeepLabCut, wholebrainSoftware, HTS]
+categories: [Neuropixels, 2p, patch clamp, DeepLabCut, wholebrainSoftware, HTS, Miniscope]
 ---
 
 Wholebrain software has been developped by Daniel Furth in the lab of Dinos Meletis and enables __automated__ segmentation of cells and registration to the Allen Brain Atlas.
