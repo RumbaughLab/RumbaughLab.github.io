@@ -14,7 +14,7 @@
 			"name": "Diána Balázsfi",
 			"role": "Postdoc/Scholar (joined in 2020)",
 			"exp": "8",
-			"since": "PhD - 2018 / Zelena/Haller Labs / Hungary",
+			"since": "PhD - 2018 / Haller/Hangya Labs / Hungary",
 			"img": "Diana",
 			"from": "Hungary",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
