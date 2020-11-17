@@ -4,7 +4,7 @@ title: Publications
 featured-img: pub
 permalink: /publications/
 ---
-Full list of publications available from PubMed [here](https://pubmed.ncbi.nlm.nih.gov/?term=Rumbaugh+G%5BAuthor%5D+OR+Rumbaugh+GR%5BAuthor%5D+AND+%28%221998%2F01%2F01%22%5BPDAT%5D+%3A+%222019%2F12%2F31%2F2019%22%5BPDAT%5D%29&sort=date)
+Full list of publications available from PubMed [here](https://pubmed.ncbi.nlm.nih.gov/?term=Rumbaugh+G%5BAuthor%5D+OR+Rumbaugh+GR%5BAuthor%5D+AND+%28%221998%2F01%2F01%22%5BPDAT%5D+%3A+%222062%2F12%2F31%2F2019%22%5BPDAT%5D%29&sort=date)
 
 ## Selected publications
 ### Review
@@ -16,7 +16,6 @@ Full list of publications available from PubMed [here](https://pubmed.ncbi.nlm.n
 ### Basic Research
 * SYNGAP1 heterozygosity disrupts sensory processing by reducing touch-related activity within somatosensory cortex circuits.  
 __Nat Neurosci__ [Michaelson, S. D. et al.](https://dx.doi.org/10.1038/s41593-018-0268-0)
-
   
 * Re-expression of SynGAP protein in adulthood improves translatable measures of brain function and behavior.   
 __Elife__ [Creson, T. K. et al.](https://dx.doi.org/10.7554/eLife.46752)
@@ -26,6 +25,7 @@ __Cell__ [Clement, J. P. et al.](https://dx.doi.org/10.1016/j.cell.2012.08.045)
 
 
 ### Assay Development
+
 
 * An interactive framework for whole-brain maps at cellular resolution.  
 __Nat Neurosci__ [Furth, D. et al.](https://dx.doi.org/10.1038/s41593-017-0027-7)  
@@ -38,7 +38,28 @@ __Sci Rep__ [Sridharan, B. et al.](https://dx.doi.org/10.1038/s41598-019-45265-1
 ******  
 
 ### Publications by date:
+
+#### 2020
+
+Aten S, Kalidindi A, Yoon H, Rumbaugh G, Hoyt KR, Obrietan K. SynGAP is expressed in the murine suprachiasmatic nucleus and regulates circadian-gated locomotor activity and light-entrainment capacity. doi: 10.1111/ejn.15043. Eur J Neurosci. (2020)
+
+Llamosas N, Arora V, Vij R, Kilinc M, Bijoch L, Rojas C, Reich A, Sridharan B, Willems E, Piper DR, Scampavia L, Spicer TP, Miller CA, Holder JL, Rumbaugh G. SYNGAP1 Controls the Maturation of Dendrites, Synaptic Function, and Network Activity in Developing Human Neurons. doi:10.1523/JNEUROSCI.1367-20.2020 J Neurosci (2020)
+
+Chen JL, et al. Design, Optimization, and Study of Small Molecules That Target Tau Pre-mRNA and Affect Splicing.
+doi: 10.1021/jacs.0c00768. J Am Chem Soc (2020)
+
+Gou G., et al. SynGAP splice variants display heterogeneous spatio-temporal expression and subcellular distribution in the developing mammalian brain. doi: 10.1111/jnc.14988. J Neurochem (2020)
+
+Young EJ, Lin H, Kamenecka TM, Rumbaugh G, Miller CA. Methamphetamine Learning Induces Persistent and Selective Nonmuscle Myosin II-Dependent Spine Motility in the Basolateral Amygdala. doi: 10.1523/JNEUROSCI.2182-19.2020. J Neurosci (2020)
+
+Gripp KW., The sixth international RASopathies symposium: Precision medicine-From promise to practice. doi: 10.1002/ajmg.a.61434. Am J Med Genet (2020)
+
 #### 2019
+
+Gripp KW. et al. The sixth international RASopathies symposium: Precision medicine-From promise to practice. 10.1002/ajmg.a.61434 Am J Med Genet A. (2019)
+
+Jones, M. E., Sillivan, S. E., Jamieson, S., Rumbaugh, G. & Miller, C. A. microRNA mir-598-3p mediates susceptibility to stress enhancement of remote fear memory. doi: 10.1101/lm.048827.118 Learn Mem. (2019)
+
 Sridharan, B. et al. A Simple Procedure for Creating Scalable Phenotypic Screening Assays in Human Neurons. Sci Rep 9, 9000, doi:10.1038/s41598-019-45265-1 (2019).    
 
 Sillivan, S. E., Jones, M. E., Jamieson, S., Rumbaugh, G. & Miller, C. A. Bioinformatic analysis of long-lasting transcriptional and translational changes in the basolateral amygdala following acute stress. PLoS One 14, e0209846, doi:10.1371/journal.pone.0209846 (2019).  

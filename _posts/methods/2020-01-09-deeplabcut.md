@@ -17,7 +17,7 @@ class="lazyload" /></div>
 
 
 
-<!-- ffmpeg -i newDLC.mp4 -vf fps=15,scale=720:-1  newDLC.gif -->
+<!-- ffmpeg -i poleSpike.mp4 -vf fps=15,scale=720:-1 -filter:v "crop=640:293:3:103"  newDLC.gif -->
 
 
 ### Multi-tracking with [DeepLabCut](http://www.mousemotorlab.org/deeplabcut) of whiskers and pupil 
