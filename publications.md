@@ -4,7 +4,7 @@ title: Publications
 featured-img: pub
 permalink: /publications/
 ---
-* Full list of publications available from PubMed [here](https://pubmed.ncbi.nlm.nih.gov/?term=Rumbaugh+G%5BAuthor%5D+OR+Rumbaugh+GR%5BAuthor%5D+AND+%28%221998%2F01%2F01%22%5BPDAT%5D+%3A+%222062%2F12%2F31%2F2019%22%5BPDAT%5D%29&sort=date)
+* Full list of publications available from PubMed [here](https://pubmed.ncbi.nlm.nih.gov/?term=Rumbaugh+G%5BAuthor%5D+OR+Rumbaugh+GR%5BAuthor%5D+AND+%28%221998%2F01%2F01%22%5BPDAT%5D+%3A+%222062%2F12%2F31%22%5BPDAT%5D%29&sort=date)
 
 * Publications available on bioRxiv [here](https://www.biorxiv.org/search/author1%3Arumbaugh%2Bg%20jcode%3Abiorxiv%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard)
 
