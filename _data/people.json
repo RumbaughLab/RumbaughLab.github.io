@@ -2,6 +2,15 @@
 	"person": [
 
 		{
+			"name": "Yeselth Angarita Peña",
+			"role": "Grad student (joined in 2020)",
+			"exp": "2",
+			"since": "B.Sc. - 2018 / USF / FL, USA",
+			"img": "Yeselth",
+			"from":"Venezuela",
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
+		},
+		{
 			"name": "Vineet Arora",
 			"role": "Postdoc/Scholar (joined in 2019)",
 			"exp": "8",
@@ -17,15 +26,6 @@
 			"since": "PhD - 2018 / Haller/Hangya Labs / Hungary",
 			"img": "Diana",
 			"from": "Hungary",
-			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
-		},
-		{
-			"name": "Yeselth Angarita Peña",
-			"role": "Grad student (joined in 2020)",
-			"exp": "2",
-			"since": "B.Sc. - 2018 / USF / FL, USA",
-			"img": "Yeselth",
-			"from":"Venezuela",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
@@ -53,6 +53,15 @@
 			"since": "MS - 2017 / / OH, USA",
 			"img": "Jessie",
 			"from":"CO, USA",
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
+		},
+		{
+			"name": "Randy Golovin",
+			"role": "Super Tech (joined in 2021)",
+			"exp": "1",
+			"since": "PhD - 2021 / Broadie Lab / Nashville, USA",
+			"img": "Randy",
+			"from":"IN, USA",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
