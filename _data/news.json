@@ -1,6 +1,13 @@
 {
 	"newsnews": [
 		{
+			"name": "Rumbaugh & Miller Labs fun in Jupiter",
+			"date": "August, 2021",
+			"description": "Rumbaugh & Miller labs enjoying the group, the place we live and work! Paddleboarding, axe throwing and taco breaks...",
+			"img": "jupiter2021",
+			"url": "/news"
+		},
+		{
 			"name": "Miniscope in the Lab",
 			"date": "November, 2020",
 			"description": "First data acquisition with Inscopix miniscope, find out more in the tools section",

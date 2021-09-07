@@ -1,15 +1,15 @@
 {
 	"person": [
 
-		{
-			"name": "Yeselth Angarita Peña",
-			"role": "Grad student (joined in 2020)",
-			"exp": "2",
-			"since": "B.Sc. - 2018 / USF / FL, USA",
-			"img": "Yeselth",
-			"from":"Venezuela",
-			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
-		},
+		// {
+		// 	"name": "Yeselth Angarita Peña",
+		// 	"role": "Grad student (joined in 2020)",
+		// 	"exp": "2",
+		// 	"since": "B.Sc. - 2018 / USF / FL, USA",
+		// 	"img": "Yeselth",
+		// 	"from":"Venezuela",
+		// 	"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
+		// },
 		{
 			"name": "Vineet Arora",
 			"role": "Postdoc/Scholar (joined in 2019)",
@@ -46,15 +46,15 @@
 			"from":"TN, USA",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
-		{
-			"name": "Jessie Goins",
-			"role": "Super Tech (joined in 2017)",
-			"exp": "5",
-			"since": "MS - 2017 / / OH, USA",
-			"img": "Jessie",
-			"from":"CO, USA",
-			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
-		},
+		// {
+		// 	"name": "Jessie Goins",
+		// 	"role": "Super Tech (joined in 2017)",
+		// 	"exp": "5",
+		// 	"since": "MS - 2017 / / OH, USA",
+		// 	"img": "Jessie",
+		// 	"from":"CO, USA",
+		// 	"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
+		// },
 		{
 			"name": "Randy Golovin",
 			"role": "Super Tech (joined in 2021)",
