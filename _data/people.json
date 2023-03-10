@@ -1,15 +1,6 @@
 {
 	"person": [
 
-		// {
-		// 	"name": "Yeselth Angarita Peña",
-		// 	"role": "Grad student (joined in 2020)",
-		// 	"exp": "2",
-		// 	"since": "B.Sc. - 2018 / USF / FL, USA",
-		// 	"img": "Yeselth",
-		// 	"from":"Venezuela",
-		// 	"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
-		// },
 		{
 			"name": "Vineet Arora",
 			"role": "Postdoc/Scholar (joined in 2019)",
@@ -17,6 +8,15 @@
 			"since": "PhD - 2019 / Lerma Lab / Spain",
 			"img": "Vineet",
 			"from": "India",
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
+		},
+		{
+			"name": "Cris Creson",
+			"role": "Staff Scientist (joined in 2010)",
+			"exp": "8",
+			"since": "PhD - / / USA",
+			"img": "Cris",
+			"from":"TN, USA",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
@@ -38,41 +38,14 @@
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
-			"name": "Cris Creson",
-			"role": "Staff Scientist (joined in 2010)",
-			"exp": "8",
-			"since": "PhD - / / USA",
-			"img": "Cris",
-			"from":"TN, USA",
-			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
-		},
-		// {
-		// 	"name": "Jessie Goins",
-		// 	"role": "Super Tech (joined in 2017)",
-		// 	"exp": "5",
-		// 	"since": "MS - 2017 / / OH, USA",
-		// 	"img": "Jessie",
-		// 	"from":"CO, USA",
-		// 	"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
-		// },
-		{
-			"name": "Randy Golovin",
-			"role": "Super Tech (joined in 2021)",
+			"name": "Bianca Garcia Gonzalez",
+			"role": "Grad student",
 			"exp": "1",
-			"since": "PhD - 2021 / Broadie Lab / Nashville, USA",
-			"img": "Randy",
-			"from":"IN, USA",
+			"since": "",
+			"img": "Bianca",
+			"from": "USA",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
-		},
-		{
-			"name": "Susan Hodi",
-			"role": "Postdoc (joined in 2020)",
-			"exp": "5",
-			"since": "PhD - 2012 / Nyitray Lab / Hungary",
-			"img": "Susan",
-			"from":"Hungary",
-			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
-		},
+		},		
 		{
 			"name": "Sheldon Michaelson",
 			"role": "Postdoc (joined in 2016)",
@@ -88,6 +61,15 @@
 			"exp": "20",
 			"since": "",
 			"img": "Beth",
+			"from":"USA",
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
+		},
+		{
+			"name": "Crystal Pan",
+			"role": "Grad student",
+			"exp": "2",
+			"since": "",
+			"img": "Crystal",
 			"from":"USA",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
@@ -110,6 +92,15 @@
 			"url": "http://rumbaugh.florida.scripps.edu/Gavin/"
 		},
 		{
+			"name": "Preston Samowitz",
+			"role": "Grad student",
+			"exp": "2",
+			"since": "",
+			"img": "Preston",
+			"from":"USA",
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
+		},		
+		{
 			"name": "Tom Vaissiere",
 			"role": "Staff Scientist (joined in 2011)",
 			"exp": "13",
@@ -120,7 +111,7 @@
 		},
 		{
 			"name": "You?",
-			"url": "{{ site.url }}{{ site.baseurl }}/contact"
+			"url": "/contact"
 		}
 	]
 }
