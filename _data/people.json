@@ -47,6 +47,24 @@
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},		
 		{
+			"name": "Randy Golovin",
+			"role": "Super Tech (joined in 2021)",
+			"exp": "1",
+			"since": "PhD - 2021 / Broadie Lab / Nashville, USA",
+			"img": "Randy",
+			"from":"IN, USA",
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
+		},
+		{
+			"name": "Susan Hodi",
+			"role": "Postdoc (joined in 2020)",
+			"exp": "5",
+			"since": "PhD - 2012 / Nyitray Lab / Hungary",
+			"img": "Susan",
+			"from":"Hungary",
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
+		},
+		{
 			"name": "Sheldon Michaelson",
 			"role": "Postdoc (joined in 2016)",
 			"exp": "10",
@@ -80,6 +98,15 @@
 			"since": "B.S. - 2019 / Keiser Univ. / FL, USA",
 			"img": "Camilo",
 			"from":"Columbia",
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
+		},
+		{
+			"name": "Shayna Reed",
+			"role": "Grad student (shared with Miller lab)",
+			"exp": "2",
+			"since": "",
+			"img": "Shayna",
+			"from":"USA",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
