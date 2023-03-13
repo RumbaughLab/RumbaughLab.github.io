@@ -1,4 +1,5 @@
- SITE CONFIGURATION
+# Welcome to Jekyll!
+
 title: Rumbaugh Group # your site title
 author: wAOndering # You :P
 description: > # Meta description of Homepage
@@ -50,7 +51,7 @@ google_tag_manager: GTM-5XRDCW2 # Uncomment to enable GTM. Replace GTM-XXXXXXX w
 
 # BUILD SETTINGS
 markdown: kramdown
-highlighter: rouge # or pygments or null
+# highlighter: rouge # or pygments or null
 theme: minima #jekyll-sleek # Uncomment if you're using the theme as a ruby gem
 # exclude:
 #   - README.md
