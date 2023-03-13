@@ -13,16 +13,22 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Rumbaugh Group # your site title
+author: wAOndering # You :P
+description: > # Meta description of Homepage
+  Rumbaugh Group - Neuroscience Lab at The Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology - Understand  the  links  between  Autism Spectrum Disorder (ASD) genetic  risk,  resulting  distributed brain connectivity impairments, and their impact on ASD-­relevant behaviors
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://rumbaugh.scripps.ufl.edu" # the base hostname & protocol for your site, e.g. http://example.com
+
+# SEO PLUGIN
+social:
+  name: Rumbaugh
+  links:
+    - https://twitter.com/GavinRumbaugh
+   # - https://www.facebook.com/ben.balter
+   #  - https://www.linkedin.com/in/BenBalter
+   # - https://plus.google.com/+BenBalter
+   # - https://github.com/benbalter
 
 # Build settings
 markdown: kramdown
@@ -41,3 +47,20 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+tagline: >
+  Understand  the  links  between  Autism Spectrum Disorder (ASD) genetic  risk,  resulting  distributed brain connectivity impairments, and their impact on ASD-­relevant behaviors
+
+hero_img: posts/research_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+
+email: gavinrumbaugh@ufl.edu # email for form submission
+twitter_username: GavinRumbaugh # replace with your_twitter_username or comment to remove link from footer
+github_username:  RumbaughLab # replace with your_github_username or comment to remove link from footer
+# instagram_username: GavinRumbaugh # replace with your_instagram_username or comment to remove link from footer
+pubmed_search: rumbaugh+g
+biorxiv_search: author1%3Arumbaugh%2Bg%20jcode%3Abiorxiv%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard
+
+disqus:
+  shortname: GavinRumbaugh # to enable comments replace with your_disqus_shortname
+
+google_tag_manager: GTM-5XRDCW2 # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
