@@ -1,22 +1,8 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+ SITE CONFIGURATION
 title: Rumbaugh Group # your site title
 author: wAOndering # You :P
 description: > # Meta description of Homepage
-  Rumbaugh Group - Neuroscience Lab at The Herbert Wertheim UF Scripps Institute for Biomedical Innovation & Technology - Understand  the  links  between  Autism Spectrum Disorder (ASD) genetic  risk,  resulting  distributed brain connectivity impairments, and their impact on ASD-­relevant behaviors
+  Rumbaugh Group - Neuroscience Lab at The Scripps Research Institute - Understand  the  links  between  Autism Spectrum Disorder (ASD) genetic  risk,  resulting  distributed brain connectivity impairments, and their impact on ASD-­relevant behaviors
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -30,23 +16,18 @@ social:
    # - https://plus.google.com/+BenBalter
    # - https://github.com/benbalter
 
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# THEME SETTINGS
+navigation: # Navigation links
+  - {name: 'Home', link: '/'}
+  - {name: 'Team', link: '/the-team'}
+  - {name: 'Research', link: '/research'}
+  - {name: 'Tools', link: '/tools'}
+  - {name: 'Publications', link: '/publications'}
+  - {name: 'Gallery', link: '/lab-gallery'}
+  - {name: 'News', link: '/news'}
+  - {name: 'Contact', link: '/contact'}
+  - {name: 'For Families', link: '/families'}
 
 tagline: >
   Understand  the  links  between  Autism Spectrum Disorder (ASD) genetic  risk,  resulting  distributed brain connectivity impairments, and their impact on ASD-­relevant behaviors
@@ -64,3 +45,33 @@ disqus:
   shortname: GavinRumbaugh # to enable comments replace with your_disqus_shortname
 
 google_tag_manager: GTM-5XRDCW2 # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
+
+service_worker: true
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge # or pygments or null
+theme: minima #jekyll-sleek # Uncomment if you're using the theme as a ruby gem
+# exclude:
+#   - README.md
+#   - node_modules
+#   - script
+#   - package.json
+#   - package-lock.json
+#   - Gemfile
+#   - Gemfile.lock
+#   - vendor
+#   - npm-debug.log
+#   - gulpfile.js
+#   - sleek.jpg
+
+include: ['_pages']
+permalink: /:title/
+
+compress_html:
+  clippings: all
+
+plugins:
+  - jekyll-feed
+  # - jekyll-sitemap
+  # - jekyll-seo-tag
