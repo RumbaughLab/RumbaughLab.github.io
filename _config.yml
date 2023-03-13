@@ -46,7 +46,7 @@ disqus:
 
 google_tag_manager: GTM-5XRDCW2 # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
 
-service_worker: true
+# service_worker: true
 
 # BUILD SETTINGS
 markdown: kramdown
@@ -65,11 +65,11 @@ theme: minima #jekyll-sleek # Uncomment if you're using the theme as a ruby gem
 #   - gulpfile.js
 #   - sleek.jpg
 
-include: ['_pages']
-permalink: /:title/
+# include: ['_pages']
+# permalink: /:title/
 
-compress_html:
-  clippings: all
+# compress_html:
+#   clippings: all
 
 plugins:
   - jekyll-feed
