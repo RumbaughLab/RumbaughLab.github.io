@@ -51,7 +51,7 @@ service_worker: true
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge # or pygments or null
-theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
+theme: minima #jekyll-sleek # Uncomment if you're using the theme as a ruby gem
 exclude:
   - README.md
   - node_modules
@@ -73,5 +73,5 @@ compress_html:
 
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
+  # - jekyll-sitemap
+  # - jekyll-seo-tag
