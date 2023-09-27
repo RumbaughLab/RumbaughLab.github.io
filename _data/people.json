@@ -1,24 +1,16 @@
 {
 	"person": [
 
-		{
-			"name": "Vineet Arora",
-			"role": "Postdoc/Scholar (joined in 2019)",
-			"exp": "8",
-			"since": "PhD - 2019 / Lerma Lab / Spain",
-			"img": "Vineet",
-			"from": "India",
-			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
-		},
-		{
-			"name": "Cris Creson",
-			"role": "Staff Scientist (joined in 2010)",
-			"exp": "8",
-			"since": "PhD - / / USA",
-			"img": "Cris",
-			"from":"TN, USA",
-			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
-		},
+		// {
+		// 	"name": "Vineet Arora",
+		// 	"role": "Postdoc/Scholar (joined in 2019)",
+		// 	"exp": "8",
+		// 	"since": "PhD - 2019 / Lerma Lab / Spain",
+		// 	"img": "Vineet",
+		// 	"from": "India",
+		// 	"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
+		// },
+
 		{
 			"name": "Diána Balázsfi",
 			"role": "Postdoc/Scholar (joined in 2020)",
@@ -35,6 +27,15 @@
 			"since": "B.Sc. - 2019 / F.I.T. / FL, USA",
 			"img": "Seth",
 			"from": "PA, USA",
+			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
+		},
+		{
+			"name": "Cris Creson",
+			"role": "Staff Scientist (joined in 2010)",
+			"exp": "8",
+			"since": "PhD - / / USA",
+			"img": "Cris",
+			"from":"TN, USA",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
 		{
@@ -55,15 +56,15 @@
 			"from":"IN, USA",
 			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
 		},
-		{
-			"name": "Susan Hodi",
-			"role": "Postdoc (joined in 2020)",
-			"exp": "5",
-			"since": "PhD - 2012 / Nyitray Lab / Hungary",
-			"img": "Susan",
-			"from":"Hungary",
-			"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
-		},
+		// {
+		// 	"name": "Susan Hodi",
+		// 	"role": "Postdoc (joined in 2020)",
+		// 	"exp": "5",
+		// 	"since": "PhD - 2012 / Nyitray Lab / Hungary",
+		// 	"img": "Susan",
+		// 	"from":"Hungary",
+		// 	"url": "{{ site.url }}{{ site.baseurl }}/the-team/"
+		// },
 		{
 			"name": "Sheldon Michaelson",
 			"role": "Postdoc (joined in 2016)",
