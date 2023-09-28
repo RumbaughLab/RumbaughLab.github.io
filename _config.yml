@@ -74,5 +74,5 @@ theme: minima #jekyll-sleek # Uncomment if you're using the theme as a ruby gem
 
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-seo-tag
